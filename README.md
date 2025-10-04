@@ -1,6 +1,6 @@
 # 🔐 Vault Moderno - Gerenciador de Senhas
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Offline](https://img.shields.io/badge/🔒-Offline%20Only-darkblue)
@@ -130,6 +130,7 @@ python gerenciador_senhas.py
 O arquivo minhas_senhas.json é criado automaticamente na primeira execução.
 
 ✨ Agora você tem um gerenciador de senhas completo e automático!
+
 
 
 
