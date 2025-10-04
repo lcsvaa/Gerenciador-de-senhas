@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![Status](https://img.shields.io/badge/Status-Stable-green)
-![Offline](https://img.shields.io/badge/🔒-Offline%20Only-brightgreen)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![Offline](https://img.shields.io/badge/🔒-Offline%20Only-purple)
 
 Um gerenciador de senhas moderno, seguro e offline com interface intuitiva. Salva automaticamente seus dados localmente e permite gerenciar todas suas credenciais em um só lugar.
 
@@ -130,4 +130,5 @@ python gerenciador_senhas.py
 O arquivo minhas_senhas.json é criado automaticamente na primeira execução.
 
 ✨ Agora você tem um gerenciador de senhas completo e automático!
+
 
